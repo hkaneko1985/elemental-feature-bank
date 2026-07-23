@@ -1,0 +1,29 @@
+{
+  "title": "Elemental Feature Bank: a provenance-aware elemental feature dataset for materials informatics",
+  "upload_type": "dataset",
+  "publication_date": "2026-07-19",
+  "description": "A provenance-aware dataset covering 118 chemical elements, with 822 interpretable features and 944 auxiliary, learned, or encoded features from licence-cleared sources.",
+  "creators": [
+    {
+      "name": "Kaneko, Hiromasa",
+      "affiliation": "Department of Applied Chemistry, School of Science and Technology, Meiji University, 1-1-1 Higashi-Mita, Tama-ku, Kawasaki, Kanagawa 214-8571, Japan"
+    }
+  ],
+  "keywords": [
+    "materials informatics",
+    "elemental properties",
+    "elemental descriptors",
+    "interpretable machine learning",
+    "data provenance",
+    "materials science"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/hkaneko1985/elemental-feature-bank",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "This work was supported by Grants-in-Aid for Scientific Research (KAKENHI) (Grant Numbers 24K08152 and 24K01234) from the Japan Society for the Promotion of Science. The repository includes source-specific licensing and attribution records; no blanket licence is asserted over third-party values.",
+  "version": "1.0.0"
+}

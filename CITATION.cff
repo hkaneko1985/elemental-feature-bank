@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the versioned dataset release and the associated Data Descriptor when available."
+title: "Elemental Feature Bank: a provenance-aware elemental feature dataset for materials informatics"
+type: dataset
+version: "1.0.0"
+date-released: "2026-07-19"
+authors:
+  - family-names: "Kaneko"
+    given-names: "Hiromasa"
+    affiliation: "Department of Applied Chemistry, School of Science and Technology, Meiji University, 1-1-1 Higashi-Mita, Tama-ku, Kawasaki, Kanagawa 214-8571, Japan"
+    email: "hkaneko@meiji.ac.jp"
+repository-code: "https://github.com/hkaneko1985/elemental-feature-bank"
+url: "https://github.com/hkaneko1985/elemental-feature-bank"
+abstract: >-
+  A provenance-aware dataset covering 118 chemical elements, with 822 interpretable
+  features and 944 auxiliary, learned, or encoded features from licence-cleared sources.
+keywords:
+  - materials informatics
+  - elemental properties
+  - elemental descriptors
+  - interpretable machine learning
+  - data provenance
+  - materials science

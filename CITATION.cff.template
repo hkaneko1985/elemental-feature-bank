@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the versioned dataset release and the associated Data Descriptor. Replace all REPLACE_* fields before publication."
+title: "Elemental Feature Bank: a provenance-aware elemental feature dataset for materials informatics"
+type: dataset
+version: "0.1.0"
+date-released: "2026-07-18"
+authors:
+  - family-names: "REPLACE_WITH_FAMILY_NAME"
+    given-names: "REPLACE_WITH_GIVEN_NAME"
+repository-code: "https://github.com/REPLACE_WITH_ACCOUNT/elemental-feature-bank"
+url: "https://github.com/REPLACE_WITH_ACCOUNT/elemental-feature-bank"
+abstract: >-
+  A provenance-aware dataset covering 118 chemical elements, with 825 interpretable
+  features and 941 auxiliary, learned, or encoded features from licence-cleared sources.
+keywords:
+  - materials informatics
+  - elemental properties
+  - elemental descriptors
+  - interpretable machine learning
+  - data provenance
+  - materials science

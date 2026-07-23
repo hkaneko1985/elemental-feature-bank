@@ -1,0 +1,9 @@
+﻿reviewer_1 \ reviewer_2,A_strict_direct,B_condition_resolved_direct,C_transparent_derived,D_empirical_contextual_auxiliary,E_engineered_arithmetic_auxiliary,F_relational_pair_auxiliary,G_noninterpretable_representation,row_total
+A_strict_direct,310,41,28,6,0,0,0,385
+B_condition_resolved_direct,0,378,44,0,0,0,0,422
+C_transparent_derived,1,0,801,0,0,0,0,802
+D_empirical_contextual_auxiliary,0,0,0,61,0,0,0,61
+E_engineered_arithmetic_auxiliary,0,0,0,0,354,0,0,354
+F_relational_pair_auxiliary,0,0,0,0,0,10,0,10
+G_noninterpretable_representation,0,0,0,0,0,0,3166,3166
+column_total,311,419,873,67,354,10,3166,5200

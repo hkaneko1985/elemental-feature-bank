@@ -1,0 +1,41 @@
+﻿test_id,category,test_name,status,observed,expected,evidence,note
+TV-001,File integrity,Core release files exist and are hashed,PASS,12,12,core_release_hashes.csv,All expected core files have SHA-256 hashes.
+TV-002,Reproducibility,Clean rebuild completes,PASS,"return codes 0,0","0,0",deterministic_build.csv,build_public_release.py produced the public release twice from the full package and policy file.
+TV-003,Reproducibility,Repeated builds are byte-identical,PASS,all a_equals_b and a_equals_public are True,True; True,deterministic_build.csv,Two clean builds and the distributed public release match byte-for-byte for core files.
+TV-004,Schema,Element row count,PASS,"118, 118","118, 118",schema_report.csv,Both public matrices preserve 118 elements.
+TV-005,Schema,Canonical H-Og order,PASS,H…Og in both matrices,H…Og,schema_report.csv,Element order is the canonical atomic-number sequence.
+TV-006,Schema,Element identifiers are unique and valid,PASS,118 unique symbols in both files,118 unique valid symbols,schema_report.csv,No duplicate or unknown element identifiers.
+TV-007,Schema,Feature counts,PASS,"822, 944","822, 944",schema_report.csv,Counts reflect the adjudicated A-C/D-G partition.
+TV-008,Partition,No cross-file feature overlap,PASS,0,0,schema_report.csv,No feature column appears in both public CSV files.
+TV-009,Partition,Public feature union count,PASS,1766,"1,766",schema_report.csv,"Union of public feature columns is 1,766."
+TV-010,Metadata,One-to-one feature metadata membership,PASS,rows=1766 unique=1766,"1,766 unique and exact union",element_feature_metadata.csv,Metadata feature set exactly matches the public CSV headers.
+TV-011,Metadata,Coverage counts agree with data,PASS,0,0,coverage_recalculation.csv,Coverage_count and missing_count were recomputed from the CSV values.
+TV-012,Numeric integrity,No all-empty features,PASS,0,0,numeric_integrity.csv,Every feature column has at least one populated value.
+TV-013,Numeric integrity,All populated feature cells are finite numeric values,PASS,0,0,numeric_integrity.csv,"No NaN, inf, -inf, or nonnumeric populated value in public matrices."
+TV-014,Missingness,Missing values use blank cells without global imputation tokens,PASS,0,0,missingness_policy_report.csv,No imputation tokens or hidden zero-fill markers were detected.
+TV-015,Provenance,Public source registry required fields,PASS,0,0,source_registry_completeness.csv,"All public source-registry rows have required source, version, URL, citation, retrieval-date, block and licence fields."
+TV-016,Provenance,Pinned input package hashes,PASS,0,0,input_asset_manifest_validation.csv,Input manifest hashes match the full pre-filter package.
+TV-017,Licence,GREEN-only public value gate,PASS,0,0,license_release_gate.csv,No AMBER/HOLD feature is present in public metadata; no GREEN feature is listed as excluded.
+TV-018,Semantics,Core semantic and provenance metadata completeness,PASS,0,0,semantic_completeness.csv,Required metadata fields are populated for public features.
+TV-019,Derivation,Conceptual-DFT derived features recompute,PASS,304 audited rows,all PASS,derived_feature_audit.csv,Derived-feature formulas were independently recomputed for audited rows.
+TV-020,Conditions,Condition-resolved metadata keys,PASS,0,0,condition_metadata_audit.csv,Condition-resolved blocks contain the required condition metadata keys.
+TV-021,Representations,Learned/encoded representation dimensions,PASS,7 checked blocks,expected dimensions,representation_dimension_report.csv,Public learned/encoded representation blocks have expected dimensions.
+TV-022,Representations,Representation coverage is internally consistent,PASS,7 checked blocks,coverage counts match,representation_coverage_report.csv,Nonmissing representation coverage agrees with metadata.
+TV-023,Source fidelity,Direct package/API and pinned-source comparisons,PASS WITH NOTE,"107,950 records; 0 FAIL; 5 notes",no release-blocking failures,source_fidelity_samples.csv; source_fidelity_summary.csv,"Five comparison rows are noted as validation-method/source-version semantics, not public-value mismatches."
+TV-024,Source fidelity,Unit conversion audit,PASS,3 audited rows; 0 FAIL,all PASS,unit_conversion_audit.csv,All audited unit-conversion records are identity or formula-consistent.
+TV-025,Source fidelity,Categorical encoding audit,PASS,24 audited rows; 0 FAIL,all PASS,categorical_encoding_audit.csv,Block and one-hot categorical encodings match expected values.
+TV-026,Physical rules,General physical/chemical range checks,PASS WITH NOTE,0 violations; 269 nonblocking notes,0 unexplained violations,physical_rule_violations.csv; physical_rule_notes.csv,Negative log10 half-life uncertainty values are valid and documented as nonblocking notes.
+TV-027,Physical rules,Successive ionization consistency,PASS,0,0,ionization_validation.csv,No ionization-series consistency violations.
+TV-028,Physical rules,Electron-count consistency,PASS,0,0,electron_count_validation.csv,Subshell occupancies are consistent with atomic numbers where applicable.
+TV-029,Physical rules,Isotope-abundance consistency,PASS,0,0,isotope_validation.csv,No isotope-abundance consistency violations.
+TV-030,Physical rules,X-ray feature consistency,PASS,0,0,xray_validation.csv,"X-ray energies, yields and attenuation values pass nonnegative/range checks."
+TV-031,Physical rules,Neutron feature consistency,PASS,0,0,neutron_validation.csv,Natural-element neutron features pass range and ratio checks.
+TV-032,Physical rules,CIAAW interval semantics,PASS,0,0,ciaaw_validation.csv,CIAAW lower/mid/upper interval semantics are consistent.
+TV-033,Coverage,Element-level and block-level coverage summarized,PASS,29 block rows,coverage files generated,coverage_by_element.csv; coverage_by_block.csv,Coverage was recomputed by element and by feature block.
+TV-034,Duplicates,Automatic exact-vector duplicate candidates identified,PASS WITH NOTE,34,candidate registry generated,duplicate_concept_registry.csv,Semantic equivalence must be adjudicated by a domain reviewer before columns are merged or removed.
+TV-035,Concordance,Numerical concordance of exact-vector duplicate candidates,PASS WITH NOTE,34,all maximum differences = 0,duplicate_concordance.csv,Numerical identity does not prove identical definitions or reference states.
+TV-036,Taxonomy,Independent A-G classification agreement,PASS WITH NOTE,AI-assisted blind second pass: exact agreement 97.69%; Cohen kappa 0.9607; 120/5200 disagreements adjudicated,blind second-pass classification; Cohen kappa target >=0.80,tier_review/tier_agreement_metrics.csv; tier_review/interpretability_adjudication.csv,Quantitative target achieved. This is not a second independent human reviewer; human domain-expert confirmation remains recommended before final journal submission.
+TV-037,Serialization,Stable documented CSV serialization,PASS,3 files checked,"UTF-8 BOM, comma-delimited, blank missing cells",serialization_report.csv,Core CSV serialization properties are stable.
+TV-038,Environment,Validation environment and pinned dependencies are recorded,PASS,"mendeleev=1.1.0, xraydb=4.5.8, periodictable=2.1.0, pymatgen=available",required packages available,environment_report.json,Validation environment was recorded.
+TV-039,CI,Tagged GitHub CI regression run,DEFERRED,repository not yet published,all required jobs green on tagged release,interpretability_review_template.csv,Execute after the GitHub repository and release tag exist.
+TV-040,Archival,GitHub release and DOI archive hash equivalence,DEFERRED,DOI deposit not yet created,100% hash equivalence,core_release_hashes.csv,Execute after Zenodo or equivalent archival deposit.

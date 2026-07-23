@@ -1,0 +1,3 @@
+﻿file_name,observed_features,expected_features,feature_set_match,value_mismatches,status
+element_data_interpretable_with_optional_local.csv,1609,1609,True,0,PASS
+element_data_others_with_optional_local.csv,3591,3591,True,0,PASS

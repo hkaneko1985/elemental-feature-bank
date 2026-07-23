@@ -1,0 +1,20 @@
+* text=auto eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.cff text eol=lf
+*.svg text eol=lf
+*.xlsx binary
+*.docx binary
+*.pdf binary
+*.png binary
+
+# Large generated evidence/data files: retain in Git, suppress noisy web diffs.
+element_data_*.csv -diff linguist-generated=true
+element_feature_metadata*.csv -diff linguist-generated=true
+excluded_features.csv -diff linguist-generated=true
+validation/source_fidelity_samples.csv -diff linguist-generated=true
+validation/*.xlsx -diff

@@ -1,0 +1,65 @@
+name: Validate public dataset snapshot
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - "v*"
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run repository snapshot validation
+        shell: bash
+        run: |
+          mkdir -p ci-evidence
+
+          {
+            echo "repository=${GITHUB_REPOSITORY}"
+            echo "ref=${GITHUB_REF}"
+            echo "ref_name=${GITHUB_REF_NAME}"
+            echo "sha=${GITHUB_SHA}"
+            echo "run_id=${GITHUB_RUN_ID}"
+            echo "run_attempt=${GITHUB_RUN_ATTEMPT}"
+            echo "run_url=https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+            python --version
+            python scripts/validate_repository_snapshot.py --repo-root .
+          } 2>&1 | tee ci-evidence/validation.log
+
+      - name: Save run metadata
+        if: always()
+        shell: bash
+        run: |
+          cat > ci-evidence/run-metadata.txt <<EOF
+          repository=${GITHUB_REPOSITORY}
+          ref=${GITHUB_REF}
+          ref_name=${GITHUB_REF_NAME}
+          sha=${GITHUB_SHA}
+          run_id=${GITHUB_RUN_ID}
+          run_attempt=${GITHUB_RUN_ATTEMPT}
+          run_url=https://github.com/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}
+          EOF
+
+      - name: Upload validation evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-evidence-${{ github.ref_name }}
+          path: ci-evidence/
+          if-no-files-found: error

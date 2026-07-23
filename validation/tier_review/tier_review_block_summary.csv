@@ -1,0 +1,48 @@
+﻿feature_block,source,feature_count,public_feature_count,reviewer_1_tier_counts,reviewer_2_tier_counts,agreement_count,disagreement_count,agreement_percent,review_status
+ciaaw_standard_atomic_weights_2024,CIAAW,10,10,A_strict_direct:5; C_transparent_derived:5,A_strict_direct:5; C_transparent_derived:5,10,0,100.0,FULL_AGREEMENT
+emb_cgcnn,ElementEmbeddings collection,92,92,G_noninterpretable_representation:92,G_noninterpretable_representation:92,92,0,100.0,FULL_AGREEMENT
+emb_cgnf,ElementEmbeddings collection,90,0,G_noninterpretable_representation:90,G_noninterpretable_representation:90,90,0,100.0,FULL_AGREEMENT
+emb_chemeleon,ElementEmbeddings collection,512,0,G_noninterpretable_representation:512,G_noninterpretable_representation:512,512,0,100.0,FULL_AGREEMENT
+emb_chgnet,ElementEmbeddings collection,64,64,G_noninterpretable_representation:64,G_noninterpretable_representation:64,64,0,100.0,FULL_AGREEMENT
+emb_crystallm,ElementEmbeddings collection,512,0,G_noninterpretable_representation:512,G_noninterpretable_representation:512,512,0,100.0,FULL_AGREEMENT
+emb_mace_mp0,ElementEmbeddings collection,128,0,G_noninterpretable_representation:128,G_noninterpretable_representation:128,128,0,100.0,FULL_AGREEMENT
+emb_magpie22,ElementEmbeddings collection,22,0,A_strict_direct:21; D_empirical_contextual_auxiliary:1,A_strict_direct:21; D_empirical_contextual_auxiliary:1,22,0,100.0,FULL_AGREEMENT
+emb_mat2vec,ElementEmbeddings collection,200,200,G_noninterpretable_representation:200,G_noninterpretable_representation:200,200,0,100.0,FULL_AGREEMENT
+emb_matscholar,ElementEmbeddings collection,200,200,G_noninterpretable_representation:200,G_noninterpretable_representation:200,200,0,100.0,FULL_AGREEMENT
+emb_matscibert,ElementEmbeddings collection,768,0,G_noninterpretable_representation:768,G_noninterpretable_representation:768,768,0,100.0,FULL_AGREEMENT
+emb_megnet16,ElementEmbeddings collection,16,16,G_noninterpretable_representation:16,G_noninterpretable_representation:16,16,0,100.0,FULL_AGREEMENT
+emb_mod_petti,ElementEmbeddings collection,1,0,D_empirical_contextual_auxiliary:1,D_empirical_contextual_auxiliary:1,1,0,100.0,FULL_AGREEMENT
+emb_oliynyk44,ElementEmbeddings collection,44,0,A_strict_direct:40; C_transparent_derived:2; D_empirical_contextual_auxiliary:2,A_strict_direct:40; C_transparent_derived:2; D_empirical_contextual_auxiliary:2,44,0,100.0,FULL_AGREEMENT
+emb_orb_v2,ElementEmbeddings collection,256,0,G_noninterpretable_representation:256,G_noninterpretable_representation:256,256,0,100.0,FULL_AGREEMENT
+emb_sevennet,ElementEmbeddings collection,128,128,G_noninterpretable_representation:128,G_noninterpretable_representation:128,128,0,100.0,FULL_AGREEMENT
+emb_skipatom,ElementEmbeddings collection,200,200,G_noninterpretable_representation:200,G_noninterpretable_representation:200,200,0,100.0,FULL_AGREEMENT
+matminer_cohesive,Cohesive-energy table distributed with matminer,1,0,A_strict_direct:1,A_strict_direct:1,1,0,100.0,FULL_AGREEMENT
+matminer_deml,Deml elemental data distributed with matminer,62,0,A_strict_direct:51; C_transparent_derived:11,A_strict_direct:15; B_condition_resolved_direct:32; C_transparent_derived:14; D_empirical_contextual_auxiliary:1,26,36,41.935483870967744,RECLASSIFICATION_RECOMMENDED
+matminer_jarvis,JARVIS CFID elemental chemistry table distributed with matminer,438,0,A_strict_direct:48; B_condition_resolved_direct:36; E_engineered_arithmetic_auxiliary:354,A_strict_direct:43; B_condition_resolved_direct:36; C_transparent_derived:5; E_engineered_arithmetic_auxiliary:354,433,5,98.85844748858447,RECLASSIFICATION_RECOMMENDED
+matminer_magpie,Magpie elemental-property lookup tables distributed with matminer,93,0,A_strict_direct:67; C_transparent_derived:22; D_empirical_contextual_auxiliary:4,A_strict_direct:55; B_condition_resolved_direct:9; C_transparent_derived:23; D_empirical_contextual_auxiliary:6,81,12,87.09677419354838,RECLASSIFICATION_RECOMMENDED
+matminer_miedema,Miedema tables distributed with matminer,21,0,D_empirical_contextual_auxiliary:11; F_relational_pair_auxiliary:10,D_empirical_contextual_auxiliary:11; F_relational_pair_auxiliary:10,21,0,100.0,FULL_AGREEMENT
+mendeleev_derived,Mendeleev Python package; derived in this work,24,24,C_transparent_derived:24,C_transparent_derived:24,24,0,100.0,FULL_AGREEMENT
+mendeleev_effective_nuclear_charge,Mendeleev,34,34,C_transparent_derived:34,C_transparent_derived:34,34,0,100.0,FULL_AGREEMENT
+mendeleev_electron_configuration,Mendeleev Python package,19,19,A_strict_direct:19,C_transparent_derived:19,0,19,0.0,RECLASSIFICATION_RECOMMENDED
+mendeleev_electronegativity_extended,Mendeleev,6,0,C_transparent_derived:6,C_transparent_derived:6,6,0,100.0,FULL_AGREEMENT
+mendeleev_element,Mendeleev Python package,97,97,A_strict_direct:63; D_empirical_contextual_auxiliary:34,A_strict_direct:60; D_empirical_contextual_auxiliary:37,94,3,96.90721649484536,RECLASSIFICATION_RECOMMENDED
+mendeleev_ionic_radius,Mendeleev ionic-radii table (Shannon-type data),328,0,C_transparent_derived:328,C_transparent_derived:328,328,0,100.0,FULL_AGREEMENT
+mendeleev_ionization,Mendeleev ionization-energy table,67,67,B_condition_resolved_direct:50; C_transparent_derived:17,B_condition_resolved_direct:50; C_transparent_derived:17,67,0,100.0,FULL_AGREEMENT
+mendeleev_ionization_state,Mendeleev ionizationenergies table,99,99,B_condition_resolved_direct:99,B_condition_resolved_direct:99,99,0,100.0,FULL_AGREEMENT
+mendeleev_ionization_uncertainty,Mendeleev ionization-energy table,74,74,B_condition_resolved_direct:74,B_condition_resolved_direct:30; C_transparent_derived:44,30,44,40.54054054054054,RECLASSIFICATION_RECOMMENDED
+mendeleev_isotope,Mendeleev isotope table,62,62,C_transparent_derived:55; D_empirical_contextual_auxiliary:7,C_transparent_derived:55; D_empirical_contextual_auxiliary:7,62,0,100.0,FULL_AGREEMENT
+mendeleev_isotope_decay_modes,Mendeleev isotope decay-mode table,47,47,C_transparent_derived:47,C_transparent_derived:47,47,0,100.0,FULL_AGREEMENT
+mendeleev_isotope_extended,Mendeleev isotope table,40,40,C_transparent_derived:40,C_transparent_derived:40,40,0,100.0,FULL_AGREEMENT
+mendeleev_li_xue_summary,Mendeleev ionic radii and Li–Xue electronegativity,80,0,C_transparent_derived:80,C_transparent_derived:80,80,0,100.0,FULL_AGREEMENT
+mendeleev_oxidation,Mendeleev oxidation-state table,78,78,C_transparent_derived:78,C_transparent_derived:78,78,0,100.0,FULL_AGREEMENT
+mendeleev_phase,Mendeleev phase-transition table,46,46,C_transparent_derived:46,C_transparent_derived:46,46,0,100.0,FULL_AGREEMENT
+mendeleev_scattering_factors,Mendeleev scattering_factors table,20,20,B_condition_resolved_direct:20,B_condition_resolved_direct:20,20,0,100.0,FULL_AGREEMENT
+mendeleev_screening,Mendeleev screening-constant table,15,15,B_condition_resolved_direct:15,B_condition_resolved_direct:15,15,0,100.0,FULL_AGREEMENT
+nist_atomic_orbital_lda,NIST Atomic Reference Data via pymatgen-core,18,18,B_condition_resolved_direct:18,B_condition_resolved_direct:18,18,0,100.0,FULL_AGREEMENT
+nist_atomic_orbital_lda_derived,NIST Atomic Reference Data via pymatgen-core,5,5,C_transparent_derived:5,C_transparent_derived:5,5,0,100.0,FULL_AGREEMENT
+nist_neutron_natural_element,NIST NCNR / Sears via periodictable,6,6,B_condition_resolved_direct:6,B_condition_resolved_direct:6,6,0,100.0,FULL_AGREEMENT
+nist_neutron_natural_element_derived,NIST NCNR / Sears via periodictable,1,1,C_transparent_derived:1,C_transparent_derived:1,1,0,100.0,FULL_AGREEMENT
+xenonpy_original,XenonPy (user-supplied element_data.csv),72,0,A_strict_direct:70; C_transparent_derived:1; D_empirical_contextual_auxiliary:1,A_strict_direct:71; D_empirical_contextual_auxiliary:1,71,1,98.61111111111111,RECLASSIFICATION_RECOMMENDED
+xraydb_absorption_edges,XrayDB,64,64,B_condition_resolved_direct:64,B_condition_resolved_direct:64,64,0,100.0,FULL_AGREEMENT
+xraydb_emission_lines,XrayDB,12,12,B_condition_resolved_direct:12,B_condition_resolved_direct:12,12,0,100.0,FULL_AGREEMENT
+xraydb_mass_attenuation,XrayDB / Elam tables,28,28,B_condition_resolved_direct:28,B_condition_resolved_direct:28,28,0,100.0,FULL_AGREEMENT

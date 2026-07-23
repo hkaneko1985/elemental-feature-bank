@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local source assets and optional reconstructions
+vendor/
+local_optional/
+local_merged/
+optional_rebuild/
+private_inputs/
+
+# Build and temporary files
+build/
+dist/
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

@@ -1,0 +1,51 @@
+{
+  "validation_date": "2026-07-18",
+  "public_elements": 118,
+  "public_interpretable_features": 822,
+  "public_other_features": 944,
+  "public_features_total": 1766,
+  "excluded_optional_features": 3434,
+  "green_sources": 26,
+  "amber_sources": 13,
+  "hold_sources": 5,
+  "public_filter_feature_element_cells": 208388,
+  "public_filter_preservation_mismatches": 0,
+  "source_fidelity_records": 107950,
+  "source_fidelity_sources": 25,
+  "source_fidelity_failures": 0,
+  "source_fidelity_pass_with_note": 5,
+  "optional_rebuild_cells": 405212,
+  "optional_rebuild_mismatches": 0,
+  "optional_rebuild_max_absolute_difference": 4.860112312599085e-10,
+  "optional_merge_pass": true,
+  "physical_rule_violations": 0,
+  "physical_rule_notes": 269,
+  "test_status_counts": {
+    "PASS": 33,
+    "PASS WITH NOTE": 5,
+    "DEFERRED": 2
+  },
+  "failures": 0,
+  "release_decision": "TECHNICALLY VALIDATED FOR GREEN-ONLY PUBLIC RELEASE",
+  "deferred_actions": [
+    "TV-039",
+    "TV-040"
+  ],
+  "pass_with_note": [
+    "TV-023",
+    "TV-026",
+    "TV-034",
+    "TV-035",
+    "TV-036"
+  ],
+  "tier_review": {
+    "type": "AI-assisted blinded rubric second pass",
+    "features": 5200,
+    "exact_agreement": 5080,
+    "agreement_percent": 97.6923076923,
+    "cohen_kappa_7class": 0.96073061694,
+    "disagreements": 120,
+    "public_partition_moves": 3,
+    "human_confirmation_recommended": true
+  }
+}

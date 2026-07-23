@@ -1,0 +1,45 @@
+﻿source_id,license_status,public_value_distribution,reason,required_action
+SRC001,HOLD,exclude,Exact pretrained checkpoint/vector asset licence was not pinned.,Obtain explicit asset-level permission/licence or rebuild locally without redistributing values.
+SRC002,AMBER,exclude,Exact CrystaLLM asset/version and CC BY attribution evidence must be pinned.,Pin DOI/version/hash and implement attribution before future inclusion.
+SRC003,AMBER,exclude,Exact Chemeleon checkpoint and extraction protocol were not pinned.,Pin checkpoint/hash and licence evidence before future inclusion.
+SRC004,AMBER,exclude,Exact JARVIS element_chem asset and upstream notices require closure.,Archive exact file/commit/hash and applicable licences.
+SRC005,AMBER,exclude,Shannon-type table provenance and redistribution treatment require closure.,Archive exact Mendeleev asset and confirm third-party table redistribution.
+SRC006,AMBER,exclude,ORB licensing varies by release and exact ORB-v2 checkpoint was not pinned.,Pin model version/hash and contemporaneous licence.
+SRC007,GREEN,include,MIT-licensed ElementEmbeddings distribution and SkipAtom source identified.,"Preserve notices, version/hash, and scientific citations."
+SRC008,GREEN,include,MIT-licensed ElementEmbeddings distribution and MatScholar source identified.,"Preserve notices, version/hash, and scientific citations."
+SRC009,GREEN,include,MIT-licensed ElementEmbeddings distribution and Mat2Vec source identified.,"Preserve notices, version/hash, and scientific citations."
+SRC010,AMBER,exclude,MACE foundation models have model-specific terms; exact checkpoint evidence is required.,Pin MACE-MP-0 checkpoint/version/hash and licence.
+SRC011,GREEN,include,MIT-licensed ElementEmbeddings distribution and SevenNet source identified.,"Preserve notices, exact checkpoint/hash, and citations."
+SRC012,GREEN,include,Mendeleev-data distribution is MIT licensed; record-level original references are retained.,Preserve MIT notice and source citations.
+SRC013,GREEN,include,Mendeleev-data main elemental table is MIT licensed.,Preserve MIT notice and property-specific citations.
+SRC014,AMBER,exclude,Software licence does not by itself close rights in every bundled Magpie lookup table.,Archive exact assets/upstream notices or use script-only reconstruction.
+SRC015,GREEN,include,CGCNN atom initialization vectors are distributed under MIT-compatible terms.,"Preserve notices, exact asset hash, and citations."
+SRC016,HOLD,exclude,No explicit licence was located for the exact CGNF representation asset.,Obtain written permission or exclude values and provide reconstruction instructions only.
+SRC017,AMBER,exclude,Condition-resolved Li-Xue source data and upstream table rights require closure.,Archive exact Mendeleev asset and original scale attribution before future inclusion.
+SRC018,GREEN,include,Mendeleev-data oxidation-state table is MIT licensed.,Preserve MIT notice and citations.
+SRC019,GREEN,include,XrayDB code/database is distributed as public-domain material with scientific source citations.,Pin database version/hash and cite XrayDB and primary tabulations.
+SRC020,GREEN,include,Mendeleev-data ionization uncertainty fields are MIT licensed.,Preserve MIT notice and original-record citations.
+SRC021,AMBER,exclude,Exact XenonPy release/source file and upstream field provenance were not embedded in the supplied CSV.,Pin the exact source release/file/hash or locally supply the original CSV.
+SRC022,GREEN,include,Mendeleev-data ionization energies are MIT licensed.,Preserve MIT notice and record-level citations.
+SRC023,GREEN,include,CHGNet model distribution is under a Modified BSD licence.,"Pin checkpoint/hash, preserve notice, and cite CHGNet."
+SRC024,AMBER,exclude,Deml lookup values are bundled with matminer but asset-level rights require closure.,Archive exact bundled file/provenance or use script-only reconstruction.
+SRC025,GREEN,include,Mendeleev-data isotope table is MIT licensed.,Preserve MIT notice and contributing nuclear-data citations.
+SRC026,GREEN,include,Mendeleev-data isotope decay-mode table is MIT licensed.,Preserve MIT notice and contributing decay-data citations.
+SRC027,GREEN,include,Mendeleev-data phase-transition table is MIT licensed.,Preserve MIT notice and property-level citations.
+SRC028,AMBER,exclude,"The bundled Oliynyk representation is MIT-distributed, but all underlying property-table rights were not independently pinned.",Pin exact file/hash and close dataset-specific redistribution terms.
+SRC029,GREEN,include,Mendeleev-data extended isotope fields are MIT licensed.,Preserve MIT notice and contributing source citations.
+SRC030,GREEN,include,Effective nuclear charge values are transparent Mendeleev-derived quantities.,"Preserve MIT notice, formulas, and method citations."
+SRC031,GREEN,include,XrayDB/Elam mass attenuation data are distributed as public-domain material with citations.,Pin database version/hash and cite XrayDB/Elam.
+SRC032,GREEN,include,Transparent derived features use MIT-licensed Mendeleev inputs and project-authored formulas.,"Publish formulas, preserve upstream attribution, and license project code/metadata separately."
+SRC033,GREEN,include,NIST atomic reference data are reusable under NIST policy and distributed through MIT-licensed pymatgen-core.,Preserve NIST courtesy attribution and pymatgen notice.
+SRC034,AMBER,exclude,The bundled Magpie-22 representation inherits unresolved upstream lookup-table treatment.,Pin exact file/hash and close Magpie data reuse terms.
+SRC035,HOLD,exclude,The Miedema parameter and pair tables lack separately documented open-data permission in the evidence set.,Obtain permission/explicit licence or publish reconstruction code only.
+SRC036,GREEN,include,Mendeleev-data scattering-factor table is MIT licensed; underlying Henke data are cited.,"Preserve MIT notice, exact grid definition, and Henke citation."
+SRC037,GREEN,include,Mendeleev electron-configuration values/logic are MIT licensed.,Pin version/hash and cite Mendeleev.
+SRC038,GREEN,include,MEGNet code/models/element embeddings are BSD licensed and MIT-distributed through ElementEmbeddings.,"Preserve both notices, exact asset hash, and citations."
+SRC039,GREEN,include,Mendeleev-data screening-constant table is MIT licensed.,Preserve MIT notice and method citations.
+SRC040,GREEN,include,CIAAW permits reproduction with specified IUPAC/CIAAW acknowledgement conditions.,"Implement full source reference, copyright symbol, organisation name, and year."
+SRC041,GREEN,include,NIST NCNR/Sears neutron values are distributed through the public-domain periodictable package with source attribution.,Pin package data file/hash and cite Sears/NIST NCNR.
+SRC042,AMBER,exclude,Several electronegativity scales mix calculated and tabulated inputs whose scale-level provenance requires closure.,Create scale-level provenance and verify reuse of tabulated inputs.
+SRC043,HOLD,exclude,The exact original cohesive-energy table and its redistribution terms were not identified.,Identify an explicit licence/permission or keep values local and publish reconstruction code only.
+SRC044,HOLD,exclude,Direct redistribution rights for the Modified Pettifor scale values were not independently evidenced.,Obtain explicit permission/licence or keep values local and publish reconstruction code only.

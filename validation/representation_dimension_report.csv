@@ -1,0 +1,8 @@
+﻿feature_block,observed_dimension,expected_dimension,status
+emb_skipatom,200,200,PASS
+emb_matscholar,200,200,PASS
+emb_mat2vec,200,200,PASS
+emb_sevennet,128,128,PASS
+emb_cgcnn,92,92,PASS
+emb_chgnet,64,64,PASS
+emb_megnet16,16,16,PASS

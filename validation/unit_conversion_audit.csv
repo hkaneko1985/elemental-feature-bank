@@ -1,0 +1,4 @@
+﻿feature_name,source_unit,release_unit,conversion_formula,status
+mend_elem__electron_affinity,,,identity,PASS
+nist_lda_orbital__1s_energy_hartree,Hartree,Hartree,identity,PASS
+xraydb_mu__total_8000eV_cm2_g,cm^2/g,cm^2/g,identity,PASS

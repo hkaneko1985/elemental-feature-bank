@@ -1,0 +1,16 @@
+{
+  "python": "3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]",
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "machine": "x86_64",
+  "locale": "",
+  "packages": {
+    "mendeleev": "1.1.0",
+    "xraydb": "4.5.8",
+    "periodictable": "2.1.0",
+    "pymatgen": "available"
+  },
+  "public_dir": ".",
+  "full_dir": "<local pre-filter package; not distributed>",
+  "vendor_dir": "<local pinned vendor assets; not distributed>",
+  "v2_dir": "<local interpretable-v2 inputs; not distributed>"
+}

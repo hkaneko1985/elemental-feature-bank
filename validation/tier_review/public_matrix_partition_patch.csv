@@ -1,0 +1,4 @@
+﻿feature_name,feature_block,reviewer_1_tier,adjudicated_tier,public_release_impact,rationale
+mend_elem__en_miedema,mendeleev_element,A_strict_direct,D_empirical_contextual_auxiliary,MOVE element_data_interpretable.csv -> element_data_others.csv,"Contextual, ordinal, socioeconomic, geochemical, or Miedema-model quantity."
+mend_elem__miedema_molar_volume,mendeleev_element,A_strict_direct,D_empirical_contextual_auxiliary,MOVE element_data_interpretable.csv -> element_data_others.csv,"Contextual, ordinal, socioeconomic, geochemical, or Miedema-model quantity."
+mend_elem__miedema_electron_density,mendeleev_element,A_strict_direct,D_empirical_contextual_auxiliary,MOVE element_data_interpretable.csv -> element_data_others.csv,"Contextual, ordinal, socioeconomic, geochemical, or Miedema-model quantity."

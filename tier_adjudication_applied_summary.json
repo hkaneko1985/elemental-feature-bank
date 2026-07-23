@@ -1,0 +1,23 @@
+{
+  "changed_feature_count": 120,
+  "public_interpretable_feature_count": 822,
+  "public_other_feature_count": 944,
+  "public_total_feature_count": 1766,
+  "public_partition_moves": [
+    {
+      "feature_name": "mend_elem__en_miedema",
+      "old_file": "element_data_interpretable.csv",
+      "new_file": "element_data_others.csv"
+    },
+    {
+      "feature_name": "mend_elem__miedema_molar_volume",
+      "old_file": "element_data_interpretable.csv",
+      "new_file": "element_data_others.csv"
+    },
+    {
+      "feature_name": "mend_elem__miedema_electron_density",
+      "old_file": "element_data_interpretable.csv",
+      "new_file": "element_data_others.csv"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿feature_block,feature_count,coverage_count,same_element_set_for_all_dimensions,status
+emb_skipatom,200,86,True,PASS
+emb_matscholar,200,103,True,PASS
+emb_mat2vec,200,118,True,PASS
+emb_sevennet,128,87,True,PASS
+emb_cgcnn,92,100,True,PASS
+emb_chgnet,64,87,True,PASS
+emb_megnet16,16,94,True,PASS

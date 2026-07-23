@@ -1,0 +1,41 @@
+name: Data error or metadata correction
+description: Report a suspected value, unit, provenance, or metadata error.
+title: "[Data error]: "
+labels: ["data-quality"]
+body:
+  - type: input
+    id: feature
+    attributes:
+      label: Feature name
+      placeholder: mend_elem__atomic_radius
+    validations:
+      required: true
+  - type: input
+    id: element
+    attributes:
+      label: Element
+      placeholder: Fe
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Current value and suspected problem
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Proposed correction and primary source
+      description: Include DOI/URL, version, page/table/record, unit, and reference state.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I checked the current feature metadata and source registry.
+          required: true
+        - label: I did not attach or redistribute a non-public AMBER/HOLD asset.
+          required: true

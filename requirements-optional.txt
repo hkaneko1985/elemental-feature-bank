@@ -1,0 +1,9 @@
+# Packages used to acquire or reconstruct optional source blocks.
+elementembeddings==0.8.0
+matminer==0.10.1
+mendeleev==1.1.0
+
+# Packages used by portions of the full Technical Validation workflow.
+xraydb==4.5.8
+periodictable==2.1.0
+pymatgen==2026.7.16

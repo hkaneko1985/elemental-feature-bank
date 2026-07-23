@@ -1,0 +1,20 @@
+{
+  "build_date": "2026-07-19",
+  "release_version": "1.0.0",
+  "elements": 118,
+  "public_interpretable_features": 822,
+  "public_other_features": 944,
+  "public_total_features": 1766,
+  "excluded_interpretable_features": 781,
+  "excluded_other_features": 2653,
+  "excluded_total_features": 3434,
+  "green_sources": 26,
+  "amber_sources": 13,
+  "hold_sources": 5,
+  "tier_review_features": 5200,
+  "tier_review_exact_agreement": 5080,
+  "tier_review_disagreements": 120,
+  "tier_review_cohen_kappa_7class": 0.9607306169408875,
+  "tier_review_public_partition_moves": 3,
+  "tier_review_type": "AI-assisted blinded rubric second pass"
+}

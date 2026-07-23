@@ -1,0 +1,27 @@
+{
+  "title": "Elemental Feature Bank: a provenance-aware elemental feature dataset for materials informatics",
+  "upload_type": "dataset",
+  "description": "A provenance-aware dataset covering 118 chemical elements, with 825 interpretable features and 941 auxiliary, learned, or encoded features from licence-cleared sources.",
+  "creators": [
+    {
+      "name": "REPLACE_WITH_FAMILY_NAME, REPLACE_WITH_GIVEN_NAME",
+      "orcid": "REPLACE_WITH_ORCID"
+    }
+  ],
+  "keywords": [
+    "materials informatics",
+    "elemental properties",
+    "elemental descriptors",
+    "interpretable machine learning",
+    "data provenance",
+    "materials science"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/REPLACE_WITH_ACCOUNT/elemental-feature-bank",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Replace creator, repository URL, licence fields, and related article DOI before deposit."
+}

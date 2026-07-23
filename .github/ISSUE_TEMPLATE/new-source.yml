@@ -1,0 +1,35 @@
+name: New feature source proposal
+description: Propose a new elemental property or representation source.
+title: "[Source proposal]: "
+labels: ["new-source"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Source or dataset name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Stable URL or DOI
+    validations:
+      required: true
+  - type: textarea
+    id: features
+    attributes:
+      label: Proposed features and elemental coverage
+    validations:
+      required: true
+  - type: textarea
+    id: licence
+    attributes:
+      label: Asset-level licence or redistribution evidence
+    validations:
+      required: true
+  - type: textarea
+    id: semantics
+    attributes:
+      label: Units, reference state, conditions, and proposed interpretability tier
+    validations:
+      required: true

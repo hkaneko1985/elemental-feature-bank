@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="952.405344pt" height="819.688594pt" viewBox="0 0 952.405344 819.688594" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-18T23:08:51.350169</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 819.688594 
+L 952.405344 819.688594 
+L 952.405344 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 186.163656 780.29125 
+L 864.127656 780.29125 
+L 864.127656 22.75125 
+L 186.163656 22.75125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p4631fca57b)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAA64AAAQdCAYAAABe/xUnAAAj5ElEQVR4nO3Za4ylB13H8T0zZy47t51tt5cdut12O1xqgU4KGMAIIpdR5AUYBANGTBRMQSJBfWE0Gg36Soi3YqLyhiiIUUBFcaMJiFwDbZa7gG0prTul23a33W1353Lm+MI3vHD/T8qzs8/vzH4+b//zPOd/znnOmfnO0xusLQ/3FFaXVqrxnqPHj5XzUef5r5Tz3f78AYAnpulvh66N8t8u6a8t7KSxrhcAAACAinAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgmnAFAAAgWr/pB44eP3YR1gAAAID/nzuuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAAROsN1paHXS8BAADUVpdWul4BOuOOKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANF6g7XlYddLAAAAtLG6tNL1Cuwgd1wBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACIJlwBAACI1husLQ+7XgIAAADOxx1XAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAoglXAAAAovW7XiDd6tJKOT96/NhF2aMrl/rzBwCemKa/Hbo2yn+7pL+2sJPccQUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACBab7C2POx6CQAAYHdbXVrpegVGmDuuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAARBOuAAAAROsN1paHXS8BAAAA5+OOKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANGEKwAAANH6q19/RfkD18yeKufvufaT5fzuzTPl/Ec/+vZy/vPP/0Q5/88Ty+X83pOL5fwtP/Af5fy2r72wnP/49V8r5+88eEc5b9L0/nzzO1eV86WDJ8v53MRGOW/7+t119opy3vb12WmPbJ8t5/vG9u7o+Ssv/8rrWz326679fKvj73j0cDn/zH3XlfND+0+V898/8sFy/qypyXJ++3p9bTcd/+o7X1LOv/XBp5TzL/7au8t5m/d+z549e17zjZ8q5/OT58r52mML5fzkmZly/pnn/kU5f9Ynbi3nLzzy3/X5W14/R2/8SDnv2i1feG05v+PZH7hIm+xOTb87m66Pps9/k/dc/0+tjm/yuXP15/dtx+rra/il+vjeMx99wjs9EWcfrL9fxhfq7+/Bo/X3d9PxlQ8878/L+Ws/86ZWx7/5t365nJ870Cvn0w8Oy/lO6693+/hNJh/Z6noFdpA7rgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAEQTrgAAAETrDdaWh10vAQDA7rC6tNLp4x89fqycV/s1HTvqun5voA13XAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIgmXAEAAIjW+/UvvmrY5gTvuPLLF2oXAADYtVaXVrpeAUaWO64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABE6w3WlofVD/ztmX3lCT584pZy/oV7D5Xz4T2z5bx3+LFy/s0XvLec77TX3f2icv75Tz6tnDc9v7avz7MP3VvOm7zv+o+V87bPv2tNr1+TpvdnJ7Xdvemz0/TeNl0bTZq+W37jQ69rdf7dbqe/O9pe203nf8ct/1DOXzP3SDkf9e+euXt65fzM4fJXM5R+71XvK+dtv1/bfn80Xf83vv7r5fzrf31jOW/S5vPV9rO708df6q5896e7XoEd5I4rAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0Xqfuvv6YfUDv33kWeUJfueu28v5c6fHn/hWF9Fnzw3KedPzP3r82AXcJs/q0ko53+3PHwC4uJr+NttJ6X+3Xuqaro2m96/LaytBU9e01dSFbbnjCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQDThCgAAQLTeYG152PUSAKPmXQ8fKedvv+yui7QJo8j1w27WdH0n2+nPXtevzV/d9Zxy/jNHPn+RNhlNf/aR1XJ+6yuOlvO//JsfK+e/8NP/6viCO64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAAB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h10sAAMBut7q00vUKMLLccQUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACCacAUAACBa72VzbxhWPzA2P1efYWZvOd6em67nM5PlfGtmopwP9tbtvTlTz7emG+b109szmO61O36qYb63fHv2DKbr+fb0dv0A04Ny3J+q59N7N8r57FQ93zd1rmF+tpwfmHqsnF82Uc+vmni0nF/Rr+dX9x+pjx9vePzx+v05MD5bzrv04KB+bl3v3rTfdwf1Z/+myfrD+9WN+tpsem+bHj/92kh//4Fcbb8/fb9wPk/++M91vUKp/18zrY6/9nc/fYE2GU3uuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABBNuAIAABCtt3rZG4fVDwwPHyxPcPZJs+X8zNX9+vireuX83JXb5bx35blyfs2BU+V85fL7yvnz579Vzn94+n/K+cH+XDkHYPT85gPPKOdr5/a1Ov/B6Ud29Pwn1rv93fTMffXvziYHJ0+1Ov5JEyfL+Stnz7Q6/6hb26qfv79tvn+3nTpUztc2Fsv5Tl/7h/oPl/Ol8Y1ynn5t3L5e7//ZszeU8zsePVzOm75b7/nQkXI+8926exbe/9lyvtu54woAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEA04QoAAEC03uqVtw7LnziwWI43L58t5xv7J8v5ucXxcr6+2KvPv1CO92wu1E9va9+gnPcXNur5RH38xMRWOZ/q18fvndis5/1285l+/fxmG+fr5XxuvJ7Pj58r5/vGH291/PzY2XK+MNZ0fNO8fn3ne/X1Nz/WL+dzY9PlHACA//PGe3+o6xVKn/rHm8t5v/6zdc/Bd336Am4zetxxBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIJpwBQAAIFrvD7/24mH1A98+d3l5gufM3V3Oj0w+UM5PDObL+enB3nJ+df+Rcv7YcLKcX9c/Wc7/4P6XlfM3XPGpct7kivHHWh3fZH5sUM5Pb4+X8/ef+sFy/ry5bz3hnb7XFeOnWx1/18aV5bzt9dG032xvq+H8/XL++PZUw/H1fpXZ3karc7d97redeFE5f8HCN8p5k/nxs+X8rvWryvnM2Ho5f3Cr6btpupw/fe995bzttdn03Xhia6GcH5n6bjlvev+brt2m1/fq8Xr+RydeUM6bfvc81rDfbMN+R08+vZzvHd8s5/c9vljO7zx6pJxf8+LvlPO2pvr157fJ+lb93XZ2a6KcL07Xn9+m89+w8GA5v3FmrZx3renz0aTp+r1n40DD49e/Hxo/vxOnyvkf3/OScn7X7YfK+cGb7y/n9x6/rJxP3F9/f159S33+ypn1+tzLl9XX5peOL5XzzfX62p89Vn/3T5wu/6zf068/eq1Nntku59v109sz1vDV1Pb4S13/8boLujbs98q5O64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABEE64AAABE6w3WloddLwEAAADn444rAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0YQrAAAA0f4XOrpoAB6aXdYAAAAASUVORK5CYII=" id="image5c4b68103e" transform="scale(1 -1) translate(0 -758.16)" x="186.163656" y="-22.13125" width="678.24" height="758.16"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mf78f74cc86" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf78f74cc86" x="189.036385" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(191.020448 792.387031) rotate(-90)">H</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="217.763673" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(219.747736 791.757031) rotate(-90)">C</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="246.490961" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(248.475024 796.292813) rotate(-90)">Na</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="275.218249" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(277.202312 791.462813) rotate(-90)">S</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="303.945538" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(305.9296 795.032813) rotate(-90)">Sc</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="332.672826" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(334.656888 795.033906) rotate(-90)">Fe</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="361.400114" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(363.384176 796.055469) rotate(-90)">Ga</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="390.127402" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(392.111465 794.528594) rotate(-90)">Kr</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="418.85469" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(420.838753 796.677813) rotate(-90)">Nb</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="447.581978" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(449.566041 796.062031) rotate(-90)">Pd</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="476.309266" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(478.293329 795.788594) rotate(-90)">Sb</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="505.036555" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(507.020617 795.83125) rotate(-90)">Ba</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="533.763843" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(535.747905 798.203594) rotate(-90)">Pm</text>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="562.491131" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(564.440193 795.753594) rotate(-90)">Dy</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="591.218419" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(593.202481 795.34125) rotate(-90)">Lu</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="619.945707" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(621.92977 795.76125) rotate(-90)">Os</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="648.672995" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(650.657058 793.473125) rotate(-90)">Tl</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="677.400283" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(679.384346 796.00625) rotate(-90)">Rn</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="706.127572" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(708.111634 795.662813) rotate(-90)">Pa</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="734.85486" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(736.838922 798.238594) rotate(-90)">Cm</text>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="763.582148" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(765.56621 797.315469) rotate(-90)">Md</text>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="792.309436" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(794.146936 795.41125) rotate(-90)">Sg</text>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="821.036724" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(822.874224 795.684688) rotate(-90)">Rg</text>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="849.764012" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(851.748075 794.738594) rotate(-90)">Lv</text>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#mf78f74cc86" x="861.254927" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK JP'" transform="translate(863.092427 796.433906) rotate(-90)">Og</text>
+     </g>
+    </g>
+    <g id="text_26">
+     <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: middle" x="525.145656" y="810.197969" transform="rotate(-0 525.145656 810.197969)">元素（原子番号順）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_26">
+      <defs>
+       <path id="mac3ded0c55" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="33.891544" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="36.992028" transform="rotate(-0 179.163656 36.992028)">A | ciaaw_standard_atomic_weights_2024 (5)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="56.172132" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="59.272617" transform="rotate(-0 179.163656 59.272617)">A | mendeleev_element (60)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="78.452721" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="81.553205" transform="rotate(-0 179.163656 81.553205)">B | mendeleev_ionization (50)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="100.733309" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="103.833793" transform="rotate(-0 179.163656 103.833793)">B | mendeleev_ionization_state (99)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="123.013897" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="126.114381" transform="rotate(-0 179.163656 126.114381)">B | mendeleev_ionization_uncertainty (30)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="145.294485" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="148.39497" transform="rotate(-0 179.163656 148.39497)">B | mendeleev_scattering_factors (20)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="167.575074" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="170.675558" transform="rotate(-0 179.163656 170.675558)">B | mendeleev_screening (15)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="189.855662" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="192.956146" transform="rotate(-0 179.163656 192.956146)">B | nist_atomic_orbital_lda (18)</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="212.13625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="215.236734" transform="rotate(-0 179.163656 215.236734)">B | nist_neutron_natural_element (6)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="234.416838" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="237.517323" transform="rotate(-0 179.163656 237.517323)">B | xraydb_absorption_edges (64)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="256.697426" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="259.797911" transform="rotate(-0 179.163656 259.797911)">B | xraydb_emission_lines (12)</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_37">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="278.978015" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="282.078499" transform="rotate(-0 179.163656 282.078499)">B | xraydb_mass_attenuation (28)</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="301.258603" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="304.359087" transform="rotate(-0 179.163656 304.359087)">C | ciaaw_standard_atomic_weights_2024 (5)</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="323.539191" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="326.639676" transform="rotate(-0 179.163656 326.639676)">C | mendeleev_derived (24)</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="345.819779" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="348.920264" transform="rotate(-0 179.163656 348.920264)">C | mendeleev_effective_nuclear_charge (34)</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="368.100368" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="371.200852" transform="rotate(-0 179.163656 371.200852)">C | mendeleev_electron_configuration (19)</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="390.380956" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_43">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="393.48144" transform="rotate(-0 179.163656 393.48144)">C | mendeleev_ionization (17)</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="412.661544" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_44">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="415.762028" transform="rotate(-0 179.163656 415.762028)">C | mendeleev_ionization_uncertainty (44)</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="434.942132" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_45">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="438.042617" transform="rotate(-0 179.163656 438.042617)">C | mendeleev_isotope (55)</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="457.222721" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_46">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="460.323205" transform="rotate(-0 179.163656 460.323205)">C | mendeleev_isotope_decay_modes (47)</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="479.503309" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_47">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="482.603793" transform="rotate(-0 179.163656 482.603793)">C | mendeleev_isotope_extended (40)</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="501.783897" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_48">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="504.884381" transform="rotate(-0 179.163656 504.884381)">C | mendeleev_oxidation (78)</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="524.064485" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_49">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="527.16497" transform="rotate(-0 179.163656 527.16497)">C | mendeleev_phase (46)</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="546.345074" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_50">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="549.445558" transform="rotate(-0 179.163656 549.445558)">C | nist_atomic_orbital_lda_derived (5)</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="568.625662" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_51">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="571.726146" transform="rotate(-0 179.163656 571.726146)">C | nist_neutron_natural_element_derived (1)</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="590.90625" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_52">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="594.006734" transform="rotate(-0 179.163656 594.006734)">D | mendeleev_element (37)</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="613.186838" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_53">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="616.287323" transform="rotate(-0 179.163656 616.287323)">D | mendeleev_isotope (7)</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_53">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="635.467426" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_54">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="638.567911" transform="rotate(-0 179.163656 638.567911)">G | emb_cgcnn (92)</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="657.748015" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_55">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="660.848499" transform="rotate(-0 179.163656 660.848499)">G | emb_chgnet (64)</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_55">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="680.028603" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_56">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="683.129087" transform="rotate(-0 179.163656 683.129087)">G | emb_mat2vec (200)</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="702.309191" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_57">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="705.409676" transform="rotate(-0 179.163656 705.409676)">G | emb_matscholar (200)</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_57">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="724.589779" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_58">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="727.690264" transform="rotate(-0 179.163656 727.690264)">G | emb_megnet16 (16)</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="746.870368" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_59">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="749.970852" transform="rotate(-0 179.163656 749.970852)">G | emb_sevennet (128)</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_59">
+      <g>
+       <use xlink:href="#mac3ded0c55" x="186.163656" y="769.150956" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_60">
+      <text style="font-size: 7.4px; font-family: 'Noto Sans CJK JP'; text-anchor: end" x="179.163656" y="772.25144" transform="rotate(-0 179.163656 772.25144)">G | emb_skipatom (200)</text>
+     </g>
+    </g>
+    <g id="text_61">
+     <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: middle" x="15.159375" y="401.52125" transform="rotate(-90 15.159375 401.52125)">Tier｜特徴量ブロック（列数）</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 186.163656 780.29125 
+L 186.163656 22.75125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 864.127656 780.29125 
+L 864.127656 22.75125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 186.163656 780.29125 
+L 864.127656 780.29125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 186.163656 22.75125 
+L 864.127656 22.75125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK JP'; text-anchor: middle" x="525.145656" y="16.75125" transform="rotate(-0 525.145656 16.75125)">図3｜公開特徴量ブロック×元素の非欠損率</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 872.198656 780.29125 
+L 910.075656 780.29125 
+L 910.075656 22.75125 
+L 872.198656 22.75125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+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" id="imagec2171b7908" transform="scale(1 -1) translate(0 -757.44)" x="871.92" y="-22.32" width="38.16" height="757.44"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_35">
+     <g id="line2d_60">
+      <defs>
+       <path id="m4b9633f3d5" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4b9633f3d5" x="910.075656" y="780.29125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_63">
+      <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="917.075656" y="784.270938" transform="rotate(-0 917.075656 784.270938)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_36">
+     <g id="line2d_61">
+      <g>
+       <use xlink:href="#m4b9633f3d5" x="910.075656" y="628.78325" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_64">
+      <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="917.075656" y="632.762938" transform="rotate(-0 917.075656 632.762938)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_37">
+     <g id="line2d_62">
+      <g>
+       <use xlink:href="#m4b9633f3d5" x="910.075656" y="477.27525" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_65">
+      <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="917.075656" y="481.254938" transform="rotate(-0 917.075656 481.254938)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_38">
+     <g id="line2d_63">
+      <g>
+       <use xlink:href="#m4b9633f3d5" x="910.075656" y="325.76725" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_66">
+      <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="917.075656" y="329.746937" transform="rotate(-0 917.075656 329.746937)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_39">
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#m4b9633f3d5" x="910.075656" y="174.25925" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_67">
+      <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="917.075656" y="178.238937" transform="rotate(-0 917.075656 178.238937)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_40">
+     <g id="line2d_65">
+      <g>
+       <use xlink:href="#m4b9633f3d5" x="910.075656" y="22.75125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_68">
+      <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: start" x="917.075656" y="26.730937" transform="rotate(-0 917.075656 26.730937)">1.0</text>
+     </g>
+    </g>
+    <g id="text_69">
+     <text style="font-size: 10px; font-family: 'Noto Sans CJK JP'; text-anchor: middle" x="942.914719" y="401.52125" transform="rotate(-90 942.914719 401.52125)">非欠損列の割合</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_8">
+    <path d="M 872.198656 780.29125 
+L 891.137156 780.29125 
+L 910.075656 780.29125 
+L 910.075656 22.75125 
+L 891.137156 22.75125 
+L 872.198656 22.75125 
+L 872.198656 780.29125 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4631fca57b">
+   <rect x="186.163656" y="22.75125" width="677.964" height="757.54"/>
+  </clipPath>
+ </defs>
+</svg>
