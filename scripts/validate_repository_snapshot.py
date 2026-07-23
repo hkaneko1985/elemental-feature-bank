@@ -121,8 +121,13 @@ def main():
     hash_mismatch = []
     for row in manifest:
         path = root / row["file_name"]
-        if not path.is_file() or sha256(path) != row["sha256"]:
-            hash_mismatch.append(row["file_name"])
+        actual = sha256(path) if path.is_file() else "MISSING"
+        if actual != row["sha256"]:
+            hash_mismatch.append((row["file_name"], row["sha256"], actual))
+    if hash_mismatch:
+        print("Hash mismatches:", file=sys.stderr)
+        for name, expected, actual in hash_mismatch:
+            print(f"  {name}: expected={expected}, actual={actual}", file=sys.stderr)
     check(not hash_mismatch, "core release files match release_core_manifest.csv")
 
     print(f"\nValidated {len(ELEMENTS)} elements and {len(union)} public features.")

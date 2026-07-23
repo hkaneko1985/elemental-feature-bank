@@ -76,7 +76,7 @@ python scripts/validate_repository_snapshot.py --repo-root .
 
 ## 引用
 
-release v1.0.0用の [`CITATION.cff`](CITATION.cff) を収録しています。データセットを用いた論文では、Data Descriptor、使用したデータ版、実際に用いた特徴量ブロックの原典を引用してください。アーカイブDOI取得後に `CITATION.cff` と `.zenodo.json` へ追記してください。
+release v1.0.1用の [`CITATION.cff`](CITATION.cff) を収録しています。データセットを用いた論文では、Data Descriptor、使用したデータ版、実際に用いた特徴量ブロックの原典を引用してください。アーカイブDOI取得後に `CITATION.cff` と `.zenodo.json` へ追記してください。
 
 ## ライセンス
 

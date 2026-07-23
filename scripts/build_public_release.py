@@ -80,7 +80,7 @@ def main() -> None:
     ap.add_argument("--output-dir", type=Path, required=True)
     ap.add_argument("--tier-adjudication-overlay", type=Path)
     ap.add_argument("--build-date", default="2026-07-18")
-    ap.add_argument("--release-version", default="1.0.0")
+    ap.add_argument("--release-version", default="1.0.1")
     ap.add_argument("--clean", action="store_true")
     args = ap.parse_args()
 

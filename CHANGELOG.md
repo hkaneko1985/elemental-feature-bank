@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.0.0] - 2026-07-19
+## [1.0.1] - 2026-07-19
 
 - First stable, citation-ready release.
 - Public matrices contain 822 interpretable and 944 other features for 118 elements.
@@ -8,7 +8,7 @@
 - Adds a fixed archival release asset intended for byte-identical upload to GitHub Releases and Zenodo.
 - TV-039 and TV-040 remain post-upload checks and do not alter the data values.
 
-## [1.0.0] - 2026-07-18
+## [1.0.1] - 2026-07-18
 
 - Completed an AI-assisted blinded second-pass review of all 5,200 Tier assignments.
 - Exact Tier agreement: 97.69%; seven-class Cohen's κ: 0.9607.

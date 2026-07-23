@@ -1,4 +1,4 @@
-# Technical Validation report — v1.0.0
+# Technical Validation report — v1.0.1
 
 The GREEN-only public release contains **118 elements**, **822 interpretable features**, and **944 other features**. The public values are unchanged from v0.1.0; three Mendeleev Miedema-model parameters were moved from the A–C matrix to the D–G matrix after Tier adjudication.
 

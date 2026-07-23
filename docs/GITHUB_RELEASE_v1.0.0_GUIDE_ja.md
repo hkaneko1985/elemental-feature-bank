@@ -1,4 +1,4 @@
-# GitHub Release v1.0.0 作成手順
+# GitHub Release v1.0.1 作成手順
 
 対象リポジトリ：
 
@@ -9,7 +9,7 @@ https://github.com/hkaneko1985/elemental-feature-bank
 Release asset：
 
 ```text
-elemental-feature-bank-v1.0.0-data.zip
+elemental-feature-bank-v1.0.1-data.zip
 ```
 
 予定SHA-256：
@@ -26,7 +26,7 @@ Windows PowerShellまたはGit Bashで、解凍したリポジトリのルート
 git init
 git branch -M main
 git add .
-git commit -m "Release Elemental Feature Bank v1.0.0"
+git commit -m "Release Elemental Feature Bank v1.0.1"
 git remote add origin https://github.com/hkaneko1985/elemental-feature-bank.git
 git push -u origin main
 ```
@@ -36,8 +36,8 @@ git push -u origin main
 ## 2. タグを作成してpushする
 
 ```bash
-git tag -a v1.0.0 -m "Elemental Feature Bank v1.0.0"
-git push origin v1.0.0
+git tag -a v1.0.1 -m "Elemental Feature Bank v1.0.1"
+git push origin v1.0.1
 ```
 
 `.github/workflows/validate.yml`は`v*`タグのpushで実行される。
@@ -46,19 +46,19 @@ git push origin v1.0.0
 
 1. リポジトリの`Actions`を開く。
 2. `Validate public dataset snapshot`を選択する。
-3. `v1.0.0`のrunがSuccessであることを確認する。
-4. run画面下部のartifact `validation-evidence-v1.0.0`を保存する。
+3. `v1.0.1`のrunがSuccessであることを確認する。
+4. run画面下部のartifact `validation-evidence-v1.0.1`を保存する。
 5. run URL、commit SHA、artifactをTV-039の証拠として保存する。
 
 ## 4. Releaseを作成する
 
 1. リポジトリ右側の`Releases`を開く。
 2. `Draft a new release`を選択する。
-3. `Choose a tag`で既存タグ`v1.0.0`を選択する。
-4. Release titleを`Elemental Feature Bank v1.0.0`とする。
-5. `RELEASE_NOTES_v1.0.0.md`の内容をRelease notesへ貼り付ける。
+3. `Choose a tag`で既存タグ`v1.0.1`を選択する。
+4. Release titleを`Elemental Feature Bank v1.0.1`とする。
+5. `RELEASE_NOTES_v1.0.1.md`の内容をRelease notesへ貼り付ける。
 6. `Attach binaries by dropping them here or selecting them.`へ
-   `elemental-feature-bank-v1.0.0-data.zip`を添付する。
+   `elemental-feature-bank-v1.0.1-data.zip`を添付する。
 7. `Set as the latest release`を有効にする。
 8. pre-releaseにはしない。
 9. `Publish release`を選択する。
@@ -68,13 +68,13 @@ git push origin v1.0.0
 Release URL：
 
 ```text
-https://github.com/hkaneko1985/elemental-feature-bank/releases/tag/v1.0.0
+https://github.com/hkaneko1985/elemental-feature-bank/releases/tag/v1.0.1
 ```
 
 assetの想定URL：
 
 ```text
-https://github.com/hkaneko1985/elemental-feature-bank/releases/download/v1.0.0/elemental-feature-bank-v1.0.0-data.zip
+https://github.com/hkaneko1985/elemental-feature-bank/releases/download/v1.0.1/elemental-feature-bank-v1.0.1-data.zip
 ```
 
 公開後、assetを再ダウンロードし、SHA-256が予定値と一致することを確認する。

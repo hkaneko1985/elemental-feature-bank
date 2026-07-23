@@ -117,7 +117,7 @@ See [`AUTHORS.md`](AUTHORS.md) and [`FUNDING.md`](FUNDING.md).
 
 ## Citation
 
-The repository includes a completed [`CITATION.cff`](CITATION.cff) for release v1.0.0. Cite the versioned dataset release and the associated Data Descriptor when available. Add the archival DOI to `CITATION.cff` and `.zenodo.json` after deposit.
+The repository includes a completed [`CITATION.cff`](CITATION.cff) for release v1.0.1. Cite the versioned dataset release and the associated Data Descriptor when available. Add the archival DOI to `CITATION.cff` and `.zenodo.json` after deposit.
 
 ## Licence and attribution
 

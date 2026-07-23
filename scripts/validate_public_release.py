@@ -736,7 +736,7 @@ def main() -> None:
         cmd_base = [
             sys.executable, str(public / "scripts" / "build_public_release.py"),
             "--full-package-dir", str(full), "--policy-file", str(public / "source_license_policy.csv"),
-            "--build-date", "2026-07-18", "--release-version", "1.0.0", "--clean",
+            "--build-date", "2026-07-18", "--release-version", "1.0.1", "--clean",
         ]
         pa = subprocess.run(cmd_base + ["--output-dir", str(a)], capture_output=True, text=True)
         pb = subprocess.run(cmd_base + ["--output-dir", str(b)], capture_output=True, text=True)

@@ -1,10 +1,10 @@
-# v1.0.0 archival release asset
+# v1.0.1 archival release asset
 
-`elemental-feature-bank-v1.0.0-data.zip` is the fixed release asset for version 1.0.0.
+`elemental-feature-bank-v1.0.1-data.zip` is the fixed release asset for version 1.0.1.
 
 Upload this exact ZIP file, without recompressing or modifying it, to:
 
-1. the `v1.0.0` Release of
+1. the `v1.0.1` Release of
    https://github.com/hkaneko1985/elemental-feature-bank; and
 2. the corresponding Zenodo Dataset record.
 

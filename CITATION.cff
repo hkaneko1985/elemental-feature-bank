@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Please cite the versioned dataset release and the associated Data Descriptor when available."
 title: "Elemental Feature Bank: a provenance-aware elemental feature dataset for materials informatics"
 type: dataset
-version: "1.0.0"
-date-released: "2026-07-19"
+version: "1.0.1"
+date-released: "2026-07-23"
 authors:
   - family-names: "Kaneko"
     given-names: "Hiromasa"

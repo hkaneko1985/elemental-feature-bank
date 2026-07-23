@@ -48,6 +48,6 @@ The complete metadata schema is represented directly by the header of `element_f
 Only licence-cleared (`GREEN`) features are present in the two public matrices.
 
 
-## Tier adjudication in v1.0.0
+## Tier adjudication in v1.0.1
 
 The AI-assisted blinded second pass reassigned 120 catalogue features. Three public Mendeleev Miedema-model parameters crossed the A-C/D-G boundary and are now in `element_data_others.csv`. See `validation/tier_review/` and `curation/public_matrix_partition_patch.csv`.
