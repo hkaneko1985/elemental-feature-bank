@@ -1,0 +1,22 @@
+﻿formula,element,atomic_fraction,feature_name,source_value,unit,source,source_version
+Fe2O3,Fe,0.4,mend_elem__atomic_number,26,1,Mendeleev Python package,1.1.0
+Fe2O3,O,0.6,mend_elem__atomic_number,8,1,Mendeleev Python package,1.1.0
+Fe2O3,Fe,0.4,mend_elem__en_pauling,1.83,1,Mendeleev Python package,1.1.0
+Fe2O3,O,0.6,mend_elem__en_pauling,3.44,1,Mendeleev Python package,1.1.0
+Fe2O3,Fe,0.4,mend_ie__stage_01_eV,7.9024681,eV,Mendeleev ionization-energy table,1.1.0
+Fe2O3,O,0.6,mend_ie__stage_01_eV,13.618055,eV,Mendeleev ionization-energy table,1.1.0
+TiO2,Ti,0.333333333333,mend_elem__atomic_number,22,1,Mendeleev Python package,1.1.0
+TiO2,O,0.666666666667,mend_elem__atomic_number,8,1,Mendeleev Python package,1.1.0
+TiO2,Ti,0.333333333333,mend_elem__en_pauling,1.54,1,Mendeleev Python package,1.1.0
+TiO2,O,0.666666666667,mend_elem__en_pauling,3.44,1,Mendeleev Python package,1.1.0
+TiO2,Ti,0.333333333333,mend_ie__stage_01_eV,6.82812,eV,Mendeleev ionization-energy table,1.1.0
+TiO2,O,0.666666666667,mend_ie__stage_01_eV,13.618055,eV,Mendeleev ionization-energy table,1.1.0
+SrTiO3,Sr,0.2,mend_elem__atomic_number,38,1,Mendeleev Python package,1.1.0
+SrTiO3,Ti,0.2,mend_elem__atomic_number,22,1,Mendeleev Python package,1.1.0
+SrTiO3,O,0.6,mend_elem__atomic_number,8,1,Mendeleev Python package,1.1.0
+SrTiO3,Sr,0.2,mend_elem__en_pauling,0.95,1,Mendeleev Python package,1.1.0
+SrTiO3,Ti,0.2,mend_elem__en_pauling,1.54,1,Mendeleev Python package,1.1.0
+SrTiO3,O,0.6,mend_elem__en_pauling,3.44,1,Mendeleev Python package,1.1.0
+SrTiO3,Sr,0.2,mend_ie__stage_01_eV,5.69486745,eV,Mendeleev ionization-energy table,1.1.0
+SrTiO3,Ti,0.2,mend_ie__stage_01_eV,6.82812,eV,Mendeleev ionization-energy table,1.1.0
+SrTiO3,O,0.6,mend_ie__stage_01_eV,13.618055,eV,Mendeleev ionization-energy table,1.1.0

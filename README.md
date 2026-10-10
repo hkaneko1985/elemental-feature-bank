@@ -2,6 +2,34 @@
 
 [日本語版 README](README_ja.md)
 
+## October 2026 revision: audit correction and executable examples
+
+The core dataset remains v1.0.1 (118 elements; 822 interpretable and 944 other
+features), DOI https://doi.org/10.5281/zenodo.21509504. The additive revision
+materials are in [revision_support/20261010/](revision_support/20261010/).
+The proposed new package tag is v1.0.2; the numerical data have not been reversioned.
+
+**Correction:** historical "blinded second-pass review"/"independent reviewer"
+wording is withdrawn. Initial labels were available during rule development.
+The study reports an AI-assisted rule-based consistency audit, not independent
+human inter-rater validation. Descriptive agreement remains 97.69% and kappa
+0.9607306. See the correction notice and executable rules in the supplement.
+
+The revision reporting addendum is 34 PASS, 4 PASS WITH NOTE, 2 DEFERRED, 0 FAIL.
+TV-036 (independent assessment) and TV-040 (fresh cross-host archive equivalence)
+remain unresolved; TV-039 has public tagged-run success evidence. The original
+40-test records and old review documents below are preserved historical records,
+not current claims of independent/blinded validation. This notice supersedes
+conflicting historical descriptions.
+
+The supplement includes a small composition-descriptor example with eight tests,
+complete labels for all elements in Fig. 2, and an event-driven maintenance policy.
+No new property-prediction benchmark or additional element data are introduced.
+
+After depositing a new Zenodo version, append its version-specific DOI here as
+"Revision supplement DOI"; retain the original DOI as "Core dataset DOI".
+
+
 A provenance-aware elemental feature dataset for materials informatics. The public release contains **118 chemical elements**, **822 interpretable features**, and **944 auxiliary, learned, or encoded features**. Features from sources whose redistribution status is `AMBER` or `HOLD` are excluded from the public value matrices and can only be reconstructed locally with the provided scripts.
 
 ## Public data

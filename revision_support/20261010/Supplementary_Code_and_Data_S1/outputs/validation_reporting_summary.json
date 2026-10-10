@@ -1,0 +1,13 @@
+{
+  "archived": {
+    "PASS": 33,
+    "PASS WITH NOTE": 5,
+    "DEFERRED": 2
+  },
+  "reporting_addendum": {
+    "PASS": 34,
+    "PASS WITH NOTE": 4,
+    "DEFERRED": 2
+  },
+  "distinct_revision_checks": "Rule replay, label-metric reproduction, composition example/tests, coverage labels, local snapshot, online metadata. The complete historical 40-test source pipeline was not rerun."
+}

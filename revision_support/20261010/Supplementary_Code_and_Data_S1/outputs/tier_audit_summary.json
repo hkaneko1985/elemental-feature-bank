@@ -1,0 +1,60 @@
+{
+  "features": 5200,
+  "blocks": 47,
+  "rule_reproduction_mismatches": 0,
+  "original_audit_disagreements": 120,
+  "metrics": [
+    {
+      "scope": "all_5200",
+      "n": 5200,
+      "agreements": 5080,
+      "agreement_percent": 97.6923076923077,
+      "observed_agreement": 0.9769230769230769,
+      "expected_agreement": 0.41234312130177514,
+      "kappa": 0.9607306169408875,
+      "binary_agreement_percent": 99.88461538461539,
+      "binary_kappa": 0.997297284654658
+    },
+    {
+      "scope": "public_1766",
+      "n": 1766,
+      "agreements": 1700,
+      "agreement_percent": 96.26274065685165,
+      "observed_agreement": 0.9626274065685164,
+      "expected_agreement": 0.35127820194975173,
+      "kappa": 0.9423904152075545,
+      "binary_agreement_percent": 99.83012457531144,
+      "binary_kappa": 0.9965870043329198
+    },
+    {
+      "scope": "excluded_3434",
+      "n": 3434,
+      "agreements": 3380,
+      "agreement_percent": 98.4274898078043,
+      "observed_agreement": 0.9842748980780431,
+      "expected_agreement": 0.470034317145785,
+      "kappa": 0.970328075136362,
+      "binary_agreement_percent": 99.9126383226558,
+      "binary_kappa": 0.9975173522665549
+    },
+    {
+      "scope": "non_G_2034",
+      "n": 2034,
+      "agreements": 1914,
+      "agreement_percent": 94.10029498525073,
+      "observed_agreement": 0.9410029498525073,
+      "expected_agreement": 0.2722164694780666,
+      "kappa": 0.9189359917155826,
+      "binary_agreement_percent": 99.70501474926253,
+      "binary_kappa": 0.9911227754201841
+    }
+  ],
+  "input_and_code_sha256": {
+    "classification/classification_inputs.csv": "13afb0a15bd7bfb61489380d8fec94da0d6438c085746ba996a18779fe5245ed",
+    "classification/archived_label_pairs.csv": "5d1325cbccec112d29126abd1ad05cd09478e82b8349d4ef68a77482b081005c",
+    "scripts/tier_rules.py": "b722bad82be76485f68bc3a5e7976c6fa4ca540841a8f93f0c4439feb904679d",
+    "scripts/reproduce_tier_audit.py": "5ec0616c80e2d1daa04fcf99d782ac6bd37a35c4a22f0b2d7e65d453129c15a5"
+  },
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "interpretation": "Descriptive rule-based consistency audit; not blind or independent inter-rater validation"
+}

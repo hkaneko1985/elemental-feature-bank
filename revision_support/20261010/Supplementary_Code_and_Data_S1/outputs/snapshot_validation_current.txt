@@ -1,0 +1,22 @@
+PASS: interpretable matrix uses canonical H–Og order
+PASS: other matrix uses canonical H–Og order
+PASS: interpretable feature count matches build summary
+PASS: other feature count matches build summary
+PASS: public matrices have no overlapping feature names
+PASS: metadata is one-to-one with public features
+PASS: metadata feature set equals matrix feature union
+PASS: interpretable matrix contains only Tiers A-C
+PASS: other matrix contains only Tiers D-G
+PASS: no public feature is empty for all elements
+PASS: all populated public cells are finite numeric values
+PASS: metadata coverage counts match matrix values
+PASS: all public feature metadata rows pass the GREEN/include gate
+PASS: all public source registry rows pass the GREEN/include gate
+PASS: licence policy contains 44 source decisions
+PASS: GREEN source count matches build summary
+PASS: AMBER source count matches build summary
+PASS: HOLD source count matches build summary
+PASS: core release files match release_core_manifest.csv
+
+Validated 118 elements and 1766 public features.
+Repository snapshot validation completed successfully.

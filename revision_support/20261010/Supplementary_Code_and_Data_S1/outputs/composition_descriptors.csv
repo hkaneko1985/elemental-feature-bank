@@ -1,0 +1,10 @@
+﻿formula,feature_name,feature_label,unit,mean,weighted_sd,minimum,maximum,range,atomic_fraction_coverage,missing_elements
+Fe2O3,mend_elem__atomic_number,Atomic number,1,15.2,8.81816307402,8,26,18,1,
+Fe2O3,mend_elem__en_pauling,Pauling electronegativity,1,2.796,0.788735697176,1.83,3.44,1.61,1,
+Fe2O3,mend_ie__stage_01_eV,First ionization energy,eV,11.33182024,2.80005429711,7.9024681,13.618055,5.7155869,1,
+TiO2,mend_elem__atomic_number,Atomic number,1,12.6666666667,6.59966329107,8,22,14,1,
+TiO2,mend_elem__en_pauling,Pauling electronegativity,1,2.80666666667,0.895668589503,1.54,3.44,1.9,1,
+TiO2,mend_ie__stage_01_eV,First ionization energy,eV,11.3547433333,3.20080605488,6.82812,13.618055,6.789935,1,
+SrTiO3,mend_elem__atomic_number,Atomic number,1,16.8,11.9063008529,8,38,30,1,
+SrTiO3,mend_elem__en_pauling,Pauling electronegativity,1,2.562,1.091391772,0.95,3.44,2.49,1,
+SrTiO3,mend_ie__stage_01_eV,First ionization energy,eV,10.67543049,3.62173779345,5.69486745,13.618055,7.92318755,1,

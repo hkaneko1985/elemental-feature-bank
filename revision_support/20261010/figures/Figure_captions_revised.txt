@@ -1,0 +1,5 @@
+Fig. 1. Numbers of public and licence-excluded feature columns in each interpretability tier.
+
+Fig. 2. Elemental coverage of public feature-block/Tier groups. (a) H-Zr (Z = 1-40); (b) Nb-Hg (Z = 41-80); (c) Tl-Og (Z = 81-118). All 118 elements are included and explicitly labelled. Each cell is the fraction of nonblank columns in a group; zero means no reported value, not a zero physical property. Group identifiers are defined in Table S1.
+
+Fig. 3. Construction, semantic normalization, rule-based Tier consistency auditing, licence gating, and release of the Elemental Feature Bank. The audit is not an independent or blinded rater study.

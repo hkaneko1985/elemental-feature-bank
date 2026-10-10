@@ -1,0 +1,27 @@
+{
+  "checked_on": "2026-10-10",
+  "github_release_page": "https://github.com/hkaneko1985/elemental-feature-bank/releases/tag/v1.0.1",
+  "github_asset_list": "https://github.com/hkaneko1985/elemental-feature-bank/releases/expanded_assets/v1.0.1",
+  "github_advertised_sha256": "6c2403e88b5c4a8f63cd01d5788f3012bbe077b34c51ccca3886d4d12cde15c3",
+  "local_supplied_zip_sha256": "6c2403e88b5c4a8f63cd01d5788f3012bbe077b34c51ccca3886d4d12cde15c3",
+  "local_matches_advertised_github_digest": true,
+  "github_run": {
+    "url": "https://github.com/hkaneko1985/elemental-feature-bank/actions/runs/29991604373",
+    "ref": "v1.0.1",
+    "commit_short": "df598c7",
+    "event": "push",
+    "status": "Success",
+    "date_time_displayed": "July 23, 2026 08:34",
+    "duration": "13s",
+    "artifact_name": "validation-evidence-v1.0.1",
+    "artifact_size_displayed": "1012 Bytes",
+    "artifact_digest_displayed": "sha256:1c899ae88b262becba46fac458d77f57da9e1db4d702de3a29df90475fed2c61",
+    "scope": "Public summary only; raw authenticated logs not downloaded."
+  },
+  "zenodo_access": {
+    "doi": "https://doi.org/10.5281/zenodo.21509504",
+    "record_url": "https://zenodo.org/records/21509504",
+    "result": "Independent file retrieval not established in this execution environment. Web tool reported inaccessible; container network requests failed name resolution. These observations do not diagnose an outage or a permission problem at Zenodo."
+  },
+  "TV040": "DEFERRED; local-versus-advertised digest comparison is not a GitHub-versus-Zenodo download comparison."
+}

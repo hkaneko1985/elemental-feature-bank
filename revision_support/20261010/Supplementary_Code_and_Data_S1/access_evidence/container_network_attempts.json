@@ -1,0 +1,65 @@
+[
+  {
+    "key": "doi",
+    "requested_url": "https://doi.org/10.5281/zenodo.21509504",
+    "checked_at_utc": "2026-10-10T02:37:11.650360+00:00",
+    "authentication": "none",
+    "timeout_seconds": 25,
+    "error": "ConnectionError",
+    "detail": "HTTPSConnectionPool(host='doi.org', port=443): Max retries exceeded with url: /10.5281/zenodo.21509504 (Caused by NameResolutionError(\"HTTPSConnection(host='doi.org', port=443): Failed to resolve 'doi.org' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  {
+    "key": "zenodo_record",
+    "requested_url": "https://zenodo.org/records/21509504",
+    "checked_at_utc": "2026-10-10T02:37:11.650800+00:00",
+    "authentication": "none",
+    "timeout_seconds": 25,
+    "error": "ConnectionError",
+    "detail": "HTTPSConnectionPool(host='zenodo.org', port=443): Max retries exceeded with url: /records/21509504 (Caused by NameResolutionError(\"HTTPSConnection(host='zenodo.org', port=443): Failed to resolve 'zenodo.org' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  {
+    "key": "zenodo_api",
+    "requested_url": "https://zenodo.org/api/records/21509504",
+    "checked_at_utc": "2026-10-10T02:37:11.655258+00:00",
+    "authentication": "none",
+    "timeout_seconds": 25,
+    "error": "ConnectionError",
+    "detail": "HTTPSConnectionPool(host='zenodo.org', port=443): Max retries exceeded with url: /api/records/21509504 (Caused by NameResolutionError(\"HTTPSConnection(host='zenodo.org', port=443): Failed to resolve 'zenodo.org' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  {
+    "key": "zenodo_zip",
+    "requested_url": "https://zenodo.org/records/21509504/files/elemental-feature-bank-v1.0.1-data.zip?download=1",
+    "checked_at_utc": "2026-10-10T02:37:11.655994+00:00",
+    "authentication": "none",
+    "timeout_seconds": 25,
+    "error": "ConnectionError",
+    "detail": "HTTPSConnectionPool(host='zenodo.org', port=443): Max retries exceeded with url: /records/21509504/files/elemental-feature-bank-v1.0.1-data.zip?download=1 (Caused by NameResolutionError(\"HTTPSConnection(host='zenodo.org', port=443): Failed to resolve 'zenodo.org' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  {
+    "key": "github_release_api",
+    "requested_url": "https://api.github.com/repos/hkaneko1985/elemental-feature-bank/releases/tags/v1.0.1",
+    "checked_at_utc": "2026-10-10T02:37:11.656829+00:00",
+    "authentication": "none",
+    "timeout_seconds": 25,
+    "error": "ConnectionError",
+    "detail": "HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/hkaneko1985/elemental-feature-bank/releases/tags/v1.0.1 (Caused by NameResolutionError(\"HTTPSConnection(host='api.github.com', port=443): Failed to resolve 'api.github.com' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  {
+    "key": "github_zip",
+    "requested_url": "https://github.com/hkaneko1985/elemental-feature-bank/releases/download/v1.0.1/elemental-feature-bank-v1.0.1-data.zip",
+    "checked_at_utc": "2026-10-10T02:37:11.658399+00:00",
+    "authentication": "none",
+    "timeout_seconds": 25,
+    "error": "ConnectionError",
+    "detail": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /hkaneko1985/elemental-feature-bank/releases/download/v1.0.1/elemental-feature-bank-v1.0.1-data.zip (Caused by NameResolutionError(\"HTTPSConnection(host='github.com', port=443): Failed to resolve 'github.com' ([Errno -3] Temporary failure in name resolution)\"))"
+  },
+  {
+    "key": "github_runs",
+    "requested_url": "https://api.github.com/repos/hkaneko1985/elemental-feature-bank/actions/runs?per_page=30",
+    "checked_at_utc": "2026-10-10T02:37:11.659116+00:00",
+    "authentication": "none",
+    "timeout_seconds": 25,
+    "error": "ConnectionError",
+    "detail": "HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/hkaneko1985/elemental-feature-bank/actions/runs?per_page=30 (Caused by NameResolutionError(\"HTTPSConnection(host='api.github.com', port=443): Failed to resolve 'api.github.com' ([Errno -3] Temporary failure in name resolution)\"))"
+  }
+]

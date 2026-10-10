@@ -1,0 +1,22 @@
+{
+  "elements": 118,
+  "groups": 34,
+  "panels": {
+    "a": [
+      1,
+      40
+    ],
+    "b": [
+      41,
+      80
+    ],
+    "c": [
+      81,
+      118
+    ]
+  },
+  "each_element_shown_once": true,
+  "all_symbols_explicitly_labelled": true,
+  "values_unchanged": true,
+  "interpretation": "Fractions of nonblank cells; zero is absence of reported values, not a zero physical value."
+}

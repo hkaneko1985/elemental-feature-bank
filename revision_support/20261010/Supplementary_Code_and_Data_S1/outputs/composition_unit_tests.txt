@@ -1,0 +1,13 @@
+test_missing_propagation (test_composition_example.Tests.test_missing_propagation) ... ok
+test_pauling_mean (test_composition_example.Tests.test_pauling_mean) ... ok
+test_reference_atomic_number (test_composition_example.Tests.test_reference_atomic_number) ... ok
+test_single_element (test_composition_example.Tests.test_single_element) ... ok
+test_stoichiometric_scaling (test_composition_example.Tests.test_stoichiometric_scaling) ... ok
+test_unsupported_formula (test_composition_example.Tests.test_unsupported_formula) ... ok
+test_weights (test_composition_example.Tests.test_weights) ... ok
+test_zero_is_valid (test_composition_example.Tests.test_zero_is_valid) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.082s
+
+OK

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "element_data_interpretable.csv",
+    "source_sha256": "3a0e6790e6842887227dc31086ad9f74f18a1053c9936286d4e9f22e58a1e3bd",
+    "supplement_sha256": "3a0e6790e6842887227dc31086ad9f74f18a1053c9936286d4e9f22e58a1e3bd",
+    "identical": true
+  },
+  {
+    "file": "element_data_others.csv",
+    "source_sha256": "ac86217d7e8bf358f4b1f0a9a686f3a66d2d281a4583431e1eb78649e8b36929",
+    "supplement_sha256": "ac86217d7e8bf358f4b1f0a9a686f3a66d2d281a4583431e1eb78649e8b36929",
+    "identical": true
+  },
+  {
+    "file": "element_feature_metadata.csv",
+    "source_sha256": "7eaa75e152539da1977bba3381ce80dd7e0271cc79d530dc1b9ef3c251e4f2d8",
+    "supplement_sha256": "7eaa75e152539da1977bba3381ce80dd7e0271cc79d530dc1b9ef3c251e4f2d8",
+    "identical": true
+  }
+]
